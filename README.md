@@ -1,6 +1,6 @@
 # Tolerant-Max-Cut
 
-This repo includes the project I worked on for the CS498: Semester Project course at EPFL during Spring 2022 semester.
+This repo includes the project I worked on for the CS498: Semester project in Computer Science II course at EPFL during Spring 2022 semester.
 
 ## Abstract
 
